@@ -415,7 +415,7 @@ Returns group settings
 !muteslist
 Returns mutes for chat
 
-!muteuser [username]
+!muteuser [hn0011]
 Mute a user in chat
 *user is kicked if they talk
 *only owners can mute | mods and owners can unmute
@@ -504,7 +504,7 @@ Unbans user from the SuperGroup
 
 !id
 Return SuperGroup ID or user id
-*For userID's: !id @username or reply !id*
+*For userID's: !id @hn0011 or reply !id*
 
 !id from
 Get ID of user message is forwarded from
@@ -516,7 +516,7 @@ Kicks user from SuperGroup
 !setowner
 Sets the SuperGroup owner
 
-!promote [username|id]
+!promote [hoseinhhhhbot]
 Promote a SuperGroup moderator
 
 !demote [username|id]
