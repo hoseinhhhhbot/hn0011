@@ -392,7 +392,7 @@ Returns group link
 !owner
 Returns group owner id
 
-!setowner [id]
+!setowner [hoseinhhhhbot]
 Will set id as owner
 
 !setflood [value]
@@ -410,7 +410,7 @@ Returns text of [value]
 !clean [modlist|rules|about]
 Will clear [modlist|rules|about] and set it to nil
 
-!res [username]
+!res [hn0011]
 Returns user id
 
 !log
